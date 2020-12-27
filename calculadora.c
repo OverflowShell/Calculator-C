@@ -34,4 +34,5 @@ else if (e == 4) {
 else {
 	printf("No existe esta opcion");
 }
+return 0;
 }
